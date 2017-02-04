@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 62.9 87.8"
+	 enable-background="new 0 0 62.9 87.8" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  height="87.8" width="62.9" y="-173.3" x="44.8" bottomLeftOrigin="true"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="13.7" y1="82.3" x2="36.7" y2="82.3"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="13.7" y1="70.2" x2="36.7" y2="70.2"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="13.7" y1="48.1" x2="36.7" y2="48.1"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="13.7" y1="7.3" x2="36.7" y2="7.3"/>
+<text transform="matrix(1 0 0 1 40.4163 84.7546)" font-family="'MyriadPro-Regular'" font-size="12">n= 1</text>
+<text transform="matrix(1 0 0 1 40.4162 73.0879)" font-family="'MyriadPro-Regular'" font-size="12">n= 2</text>
+<text transform="matrix(1 0 0 1 40.4163 10.0439)" font-family="'MyriadPro-Regular'" font-size="12">n= 4</text>
+<text transform="matrix(1 0 0 1 40.4162 50.8773)" font-family="'MyriadPro-Regular'" font-size="12">n= 3</text>
+<g>
+	<g>
+		<g>
+			<polygon points="10.1,84.8 10.1,10.5 13,10.5 9.7,4.8 6.4,10.5 9.3,10.5 9.3,84.8 			"/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 0 48.0876)" font-family="'MyriadPro-Regular'" font-size="12">E</text>
+</svg>
